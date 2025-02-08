@@ -1,3 +1,3 @@
 # flutter_firebase_auth
 
-A new Flutter project.
+This is my project firebase Authentication with Flutter
